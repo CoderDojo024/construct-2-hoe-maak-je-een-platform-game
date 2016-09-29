@@ -1,13 +1,16 @@
-Construct 2 can make all kinds of 2D games.  In this tutorial, you'll be taken through the basics of making a platform game in Construct 2.  If you're new to Construct 2 and would prefer to make a top-down shooter style game, check out [this alternative beginner's guide][1].  Ready to make a platformer?  Let's get going!
+[Hoe maak je een platform game met Construct 2](https://www.scirra.com/tutorials/37/beginners-guide-to-construct-2) oorspronkelijk gepubliceerd door [Ashley](https://www.scirra.com/users/ashley)
 
-*Note: please don't ask for help in the comments of this tutorial!  Instead, head over to our [forum][81] to get the best possible response to any questions you may have.*
+Construct 2 kan allerlei typen 2D games maken. In deze tutorial doorlopen we de basisstappen voor het maken van een platform game in Construct 2. Als je voor het eerst met Construct 2 werkt, en liever een top-down shooter game maakt, kijk dan eens naar de [beginnershandleiding](http://www.scirra.com/tutorials/37/beginners-guide-to-construct-2). Klaar om een platform game te maken? Laten we aan de slag gaan!
 
-This tutorial uses the **Jungle Platformer** sprites from the bundle you get when you purchase Construct 2. Once purchased, click the *Download media bundle* link in the About dialog to get the extra assets bundle.  If you're using the free edition, you can substitute your own graphics, or try the [alternative beginner's guide][1] which provides all the sprites you need.
+*Let op: gelieve niet om hulp te vragen in de reacties van deze tutorial! In plaats daarvan, ga naar ons [forum](https://www.scirra.com/forum/) om het best mogelijke antwoord op de eventuele vragen te krijgen.*
 
-[The Jungle Platformer sprite pack.][3]
+Deze tutorial gebruikt de **Jungle Platformer** sprites uit de bundle die je krijgt als je Construct 2 koopt. Eenmaal gekocht, klik je op de *Download media bundle* link in het About dialoogvenster om de extra assets bundle te krijgen. Als je de gratis versie gebruikt, kun je je eigen afbeeldingen gebruiken, de gratis [Scirra Sprites Bundle](http://www.scirra.com/freebundle.zip) gebruiken, of de [alternatieve beginnershandleiding volgen](http://www.scirra.com/tutorials/37/beginners-guide-to-construct-2) die alle benodigde afbeeldingen bevat.
 
-##Installing Construct 2##
-If you haven't already, grab a copy of the latest release of Construct 2 [here][32].  The Construct 2 editor is for Windows only, but the games you make can run anywhere, such as Mac, Linux or iPad.  Construct 2 can also be installed on limited user accounts.  It's also portable, so you can install to a USB memory stick for example, and take it with you! 
+![The Jungle Platformer sprite pack.](http://www.scirra.com/images/jungle-pack.jpg)
+
+##Installeren Construct 2##
+
+Als je het nog niet hebt gedaan, download een exemplaar van de nieuwste release van Construct 2 [hier](https://www.scirra.com/construct2/releases/new).  De Construct 2 editor is alleen beschikbaar voor Windows, maar de games die je maakt kunnen overal op draaien, zoals Mac, Linux of iPad. Construct 2 kan ook op beperkte gebruikersaccounts worden geïnstalleerd. Het is ook draagbaar, zodat u ook kunt installeren op een USB-stick bijvoorbeeld, zodat je het kunt meenemen! 
 
 ##Getting started##
 Now you're set up, launch Construct 2.  Click the *File* button, and select *New*.
